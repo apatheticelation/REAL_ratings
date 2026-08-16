@@ -1,8 +1,10 @@
 # About REAL Ratings
 
-[The RealGood AI REAL Ratings website](https://www.realgoodai.org/real-rating)
+**R**eported **E**ngagement with **A**I **L**evel
 
 **REAL** was created to help facilitate the **self-reported disclosure** of the use (or lack thereof) of AI in projects, products, media, education, and other venues. It can also be used to **assess risk** and allows creators, organizations, or individuals to **set nuanced boundaries** in AI use and the **public to know what they are in for**!
+
+[The RealGood AI REAL Ratings website](https://www.realgoodai.org/real-rating)
 
 ## Level 0: No AI
 <img src="0_REAL_rating.png"/>
